@@ -6,6 +6,9 @@
 *.user
 *.userosscache
 *.sln.docstates
+glad/
+glfw-3.2.1.bin.WIN64/
+opencv/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
